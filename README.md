@@ -53,4 +53,4 @@ cd /c/users/sabee/Documents/coding_class/mycodingbootcamp
 3. Type: git add .
 4. Type:git commit-m "name of change"
 5. git push origin master
-
+6. Check your changes in git hub(after refreshing the page)
