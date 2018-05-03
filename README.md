@@ -24,7 +24,7 @@ Lists all; the files and directory in ther current directory.
 Lists all; the files and directory in some directory.
 
 ### mk dir
-Makes a new directory.
+Makes a new directory(folder).
 
 ### touch
 Creates a new file with the name file name.
@@ -32,5 +32,25 @@ Creates a new file with the name file name.
 ###rm<file name>
 
 Removes(delete) a file.
+
 ### rmdir
-Removes a directory.
+Removes a directory permanently.
+
+### git add .
+
+Adding repository to git add
+
+### git commit
+Kind of saving it 
+
+### git push
+saves changes to original (master flie).
+
+### Steps to make changes and save them
+1. Open read me file in visual studio code make changes.
+2. Go to terminal(gitbash). Type the folder path to access it. eg:    
+cd /c/users/sabee/Documents/coding_class/mycodingbootcamp
+3. Type: git add .
+4. Type:git commit-m "name of change"
+5. git push origin master
+
