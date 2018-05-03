@@ -29,7 +29,7 @@ Makes a new directory(folder).
 ### touch
 Creates a new file with the name file name.
 
-###rm<file name>
+### rm<file name>
 
 Removes(delete) a file.
 
