@@ -70,3 +70,35 @@ git pull    - downloads the freshest version
 2. git commit -m "message about what committing"
 3. git push
 git status : tells you which state git is currently in.
+
+
+
+
+
+
+_If windows and you see this:_
+
+*Warning:CRLF will be converted to LF* its not an error
+
+
+### cp<target file> <destination file>
+
+Copies a file from target to destination.
+
+### mv <targetfile> <destinationfile>
+moves a file from target to dest.
+
+## Cool terminal shortcuts:
+Up key:goes to previous command(fills in the command)
+
+
+Tab key: while typing the file or folder name fills the file name if its there and you need it.
+
+### Special directories:
+~/ - User directory (/user/sabeen@syedazehra)
+
+../ - One directory up (parent directory)
+
+./ - Current directory
+
+/ - root directory
